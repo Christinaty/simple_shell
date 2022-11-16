@@ -250,6 +250,6 @@ The file contains all the commands that your shell should run before exiting
 The file should contain one command per line
 In this mode, the shell should not print a prompt and should not read from stdin
 Contributors 👫
-oluwole adebanjo
+Samuel Akinwande
 
-oluwatomi majekodunmi
+Christina Adegbaju
